@@ -185,6 +185,14 @@ h1{
   }
   
   @media only screen and (max-width: 425px) {
+
+    .logo{
+        font-size: 17px;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 700;
+    }
+
     .home-image img{
      width: 70px;
      height: 70px;
@@ -213,13 +221,13 @@ h1{
     }
 
     .home-image img{
-        width: 550px;
-        height: 400px;
+        width: 500px;
+        height: 900px;
         left: -2px;
        }
 
     .home-image{
-           width: 500px;
-           height: 500px;
+           width: 1200px;
+           height: 1200px;
        }
   }
